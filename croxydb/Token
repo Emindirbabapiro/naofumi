@@ -1,0 +1,14 @@
+module.exports = {
+    token: "MTMwNzI3MjE2NDIwMTg1NzA0NQ.GmCh9P.z--mINDKidGKXo5YUSN-Wr6ScSS4HHeM1d0G4c", //Botun Tokenini giriniz.
+    prefix: "n.",  //Prefixniz.
+    botStatus: "sa", //Botun Durumu
+    ownerID: "1290535351852597316",  // Bot sahibinin idsi
+    logChannelId: "",  // Botun eklendiği sunucuların logunu atıcağı kanalın idsi
+    website: "https://discord.gg/weebdev"  //yoksa boş bırakabilirsiniz.
+}
+
+
+
+/*
+Sunumuza katılarak destek alabilsiniz. https://discord.gg/weebdev // https://discord.gg/dvCKjxHn35 
+*/
